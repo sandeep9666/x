@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hii  sandeep hai
-=======
-hai this is sandeep hii this is sandeep haiiii
->>>>>>> 0245de0970eabbef91e8b5bb98e6f1f2d8794ac1
+ 
